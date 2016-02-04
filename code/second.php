@@ -2,5 +2,5 @@
 
 $myVar = "Happy Day";
 
-if( isset($myVar) == TRUE ) {
+if( isset($myVar) == true ) {
     echo "Yes, it is a happy day!"; }
