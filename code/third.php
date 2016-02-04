@@ -3,7 +3,7 @@
 class validateData {
 
     fucntion checkemailaddress ($email) {
-        if($email == "check@example.com") {
+        if($email == "test@example.com") {
             return TRUE;
         }
     }
